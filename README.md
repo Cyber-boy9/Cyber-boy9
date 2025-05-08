@@ -23,7 +23,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  I'm a high school student from Ethiopia, passionate about software development and cybersecurity.<br><br>
+  I'm a high schooler, passionate about software development and cybersecurity.<br><br>
   - 🔭 I’m currently working on an AI-powered research paper assistant Telegram bot<br>
   - 📚 I'm learning modern web frameworks like React.js, Svelte, Tailwind CSS, Node.js, Websockets and also diving into cybersecurity and penetration testing<br>
 </p>
@@ -49,6 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="Svelte" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="TailwindCSS" />
+
 </div>
 </div>
