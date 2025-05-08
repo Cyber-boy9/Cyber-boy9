@@ -2,8 +2,6 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
-
 <div align="center">
   <a href="https://twitter.com/firafisbekele" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
@@ -16,17 +14,11 @@
   </a>
 </div>
 
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Cyber-boy9.Cyber-boy9&" />
 </div>
 
-###
-
 <h1 align="center">Hey there 👋, This is Theodore, Firafis!</h1>
-
-###
 
 <h3 align="left">👨‍💻 About Me</h3>
 
@@ -35,8 +27,6 @@
   - 🔭 I’m currently working on an AI-powered research paper assistant Telegram bot<br>
   - 📚 I'm learning modern web frameworks like React.js, Svelte, Tailwind CSS, Node.js, Websockets and also diving into cybersecurity and penetration testing<br>
 </p>
-
-###
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
